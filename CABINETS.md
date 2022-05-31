@@ -1,14 +1,3 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<meta name="OriginalFile" content="CABINETS.DOCX"/>
-<meta name="generator" content="Adobe RoboHelp 2020"/>
-<title>CABINETS</title>
-<link rel="StyleSheet" href="assets/css/htmlhelp.css" type="text/css"/>
-<meta name="rh-index-keywords" content="profile groups (see also Cabinets),Cabinets,CABINETS command"/></head>
-
-<body style="word-wrap: break-word;">
 <h1>CABINETS</h1>
 <p class="Bullet_list"><a href="#CABINETS_Example">CABINETS_Example</a></p>
 <p class="Bullet_list"><a href="#CABINETS_Parameters">CABINETS_Parameters</a></p>
@@ -28,7 +17,7 @@
  the list.</p>
 <p> </p>
 <p class="up_arrow"><span style="font-style: italic; font-weight: bold;"><i><b><a href="#"><img src="assets/images/up_arrow.gif" alt="up_arrow.gif" title="up_arrow.gif" style="border: none;" width="14" height="16" border="0"/></a></b></i></span></p>
-<p class="up_arrow"> </p>
+
 <h3><a id="JSON_Successful_CABINETS_Response"></a>JSON Successful CABINETS 
  Response</h3>
 <p style="margin: 0in; line-height: 13.5pt; background-color: #fffffe;"><span style="font-size: 9.0pt; font-family: Consolas; color: #000000;">       {</span></p>
